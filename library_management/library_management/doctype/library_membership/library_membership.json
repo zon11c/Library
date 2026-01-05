@@ -8,6 +8,7 @@
  "field_order": [
   "library_member",
   "full_name",
+  "column_break_bfdq",
   "from_date",
   "to_date",
   "paid",
@@ -54,13 +55,17 @@
    "print_hide": 1,
    "read_only": 1,
    "search_index": 1
+  },
+  {
+   "fieldname": "column_break_bfdq",
+   "fieldtype": "Column Break"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2026-01-04 13:26:17.978267",
+ "modified": "2026-01-05 11:30:54.562385",
  "modified_by": "Administrator",
  "module": "Library Management",
  "name": "Library Membership",

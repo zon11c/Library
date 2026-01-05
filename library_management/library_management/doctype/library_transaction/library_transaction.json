@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "format:LT-{article}-{#####}",
  "creation": "2026-01-04 13:28:35.879272",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -38,10 +39,11 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-01-04 13:30:13.558571",
+ "modified": "2026-01-05 11:38:55.357295",
  "modified_by": "Administrator",
  "module": "Library Management",
  "name": "Library Transaction",
+ "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {
